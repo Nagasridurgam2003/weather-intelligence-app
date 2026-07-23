@@ -66,4 +66,5 @@ A modern, responsive Weather Intelligence web application built with **React**, 
 - **Reverse Geocoding**: `https://api.bigdatacloud.net/data/reverse-geocode-client`
 
 No API keys are needed to run or deploy this application.
+
 Link: [https://weather-intelligence-app.nagasri-durgam.workers.dev/](https://weather-intelligence-app.nagasri-durgam.workers.dev/)
